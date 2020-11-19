@@ -1,7 +1,7 @@
 # Tic-Tac-Toe 5x5
 **Eng:** Tic-Tac-Toe 5x5 game with an optimized algorithm, for two players. The size of the field can be any, it is set in the settings.
 
->PS Running the program - [Main.py](https://github.com/IvanBakanov/Tic-Tac-Toe_5x5/blob/main/Tic-Tac-Toe_5x5/Main.py). There you can also set the number of organisms of each type (if you do not want to use a certain type, then write 0 there). All other game settings are stored in the [Settings.py](https://github.com/IvanBakanov/Tic-Tac-Toe_5x5/blob/main/Tic-Tac-Toe_5x5/Settings.py) file.
+>PS Running the program - [Main.py](https://github.com/IvanBakanov/Tic-Tac-Toe_5x5/blob/main/Tic-Tac-Toe_5x5/Main.py). Game settings are stored in the [Settings.py](https://github.com/IvanBakanov/Tic-Tac-Toe_5x5/blob/main/Tic-Tac-Toe_5x5/Settings.py) file.
 
 ---
 
